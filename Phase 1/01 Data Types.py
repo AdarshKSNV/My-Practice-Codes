@@ -1,0 +1,12 @@
+a=10
+b=1.6789
+c='dfbghnjmk'
+d=5.66
+e=(10+5j)
+f=True
+print(type(a))
+print(type(b))
+print(type(c))
+print(type(d))
+print(type(e))
+print(type(f))
